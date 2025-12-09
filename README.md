@@ -1,5 +1,8 @@
 # 💫 About Me:
-# Hi, I'm Buğra! 👋<br><br>- **Statistics Student at METU**  <br>- Interested in **Data Science, Machine Learning, AI, and Data Engineering**   <br>- Python, SQL, R | Building predictive models & visualization <br>## 📺 Content Creation<br><br>I create content across two channels, balancing technical deep dives with my daily life.<br><br>* **[Bugra In Deep]([https://www.youtube.com/@BugraInDeep]):** 🧠<br>    * *Focus:* Data Science, Machine Learning, and AI.<br>    * I bridge the gap between complex theory and practical application. Expect deep dives into ML algorithms, AI tool comparisons, and coding tutorials designed for data enthusiasts.<br>    <br>* **[Buğra Akkuş]([https://www.youtube.com/@bugrakkus]):** 📷<br>    * *Focus:* Vlogs & Lifestyle.<br>    * The "behind the scenes" of my life as a student and developer. I share vlogs, daily routines, and my journey outside of the code editor.
+# Hi, I'm Buğra! 👋
+- Statistics Student at METU  <br> - Interested in **Data Science, Machine Learning, AI, and Data Engineering**   <br> - Python, SQL, R | Building predictive models & visualization <br> 
+## 📺 Content Creation<br><br>
+I create content across two channels, balancing technical deep dives with my daily life.<br><br>* **[Bugra In Deep]([https://www.youtube.com/@BugraInDeep]):** 🧠<br>    * *Focus:* Data Science, Machine Learning, and AI.<br>    * I bridge the gap between complex theory and practical application. Expect deep dives into ML algorithms, AI tool comparisons, and coding tutorials designed for data enthusiasts.<br>    <br>* **[Buğra Akkuş]([https://www.youtube.com/@bugrakkus]):** 📷<br>    * *Focus:* Vlogs & Lifestyle.<br>    * The "behind the scenes" of my life as a student and developer. I share vlogs, daily routines, and my journey outside of the code editor.
 
 
 ## 🌐 Socials:
