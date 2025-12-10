@@ -74,6 +74,3 @@ I create content across two channels, balancing technical deep dives with my dai
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BugraAkkus&limit=5&theme=dark&combine_all_yearly_contributions=true)
